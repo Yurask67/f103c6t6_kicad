@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***************************************-->
+<!--   File    : f103c6t6.fsproj           -->
+<!--   Format  : TopoR Project file        -->
+<!--   Version : 2                         -->
+<!--   Program : TopoR 32 Layer 7.0.18707  -->
+<!--   Date    : Friday, February 14, 2025 -->
+<!--   Time    : 15:53                     -->
+<!--***************************************-->
+
+<Project>
+   <Version current="2"/>
+   <GUID>{2B4C1D3F-0120-4E56-9354-5AA43F0F2263}</GUID>
+   <Documents>
+      <Section name="PCB" isExpanded="false">
+         <File path=".\f103c6t6.fsx" isopened="1" dateChange="2025-02-14 15:30:49"/>
+      </Section>
+      <Section name="AutoRouting" isExpanded="false"/>
+   </Documents>
+</Project>
