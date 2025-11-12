@@ -1,31 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--***************************************-->
-<!--   File    : f103c6t6.fsproj           -->
-<!--   Format  : TopoR Project file        -->
-<!--   Version : 2                         -->
-<!--   Program : TopoR Lite 7.0.18699      -->
-<!--   Date    : Sunday, November 09, 2025 -->
-<!--   Time    : 19:34                     -->
-<!--***************************************-->
+<!--******************************************-->
+<!--   File    : f103c6t6.fsproj              -->
+<!--   Format  : TopoR Project file           -->
+<!--   Version : 2                            -->
+<!--   Program : TopoR Lite 7.0.18699         -->
+<!--   Date    : Wednesday, November 12, 2025 -->
+<!--   Time    : 17:18                        -->
+<!--******************************************-->
 
 <Project>
    <Version current="2"/>
    <GUID>{FF64D4B0-D43C-46FC-AA12-5682A70EF0EB}</GUID>
    <Documents>
       <Section name="PCB" isExpanded="true">
-         <File path=".\f103c6t6.fsx" isopened="0" dateChange="2025-11-05 21:47:27"/>
-         <File path=".\f103c6t6_578-8s.fsx" isopened="1" dateChange="2025-11-06 11:10:26"/>
+         <File path=".\f103c6t6.fsx" isopened="0" dateChange="2025-02-15 11:52:40"/>
+         <File path=".\f103c6t6_578-8s.fsx" isopened="0" dateChange="2025-11-12 15:13:00"/>
       </Section>
       <Section name="AutoRouting" isExpanded="true">
-         <File path=".\autoroute_250215115001\f103c6t6_578-8s.fsb" isopened="0" dateChange="1601-01-01 00:00:00"/>
-         <File path=".\autoroute_251106105622\f103c6t6_578-8s_436-5s.fsb" isopened="0" dateChange="2025-11-06 10:58:32"/>
-         <File path=".\autoroute_251106110251\f103c6t6_578-8s_514-7s.fsb" isopened="0" dateChange="2025-11-06 11:03:02"/>
-         <File path=".\autoroute_251106104954\f103c6t6_578-8s_531-6s.fsb" isopened="0" dateChange="2025-11-06 10:50:44"/>
-         <File path=".\autoroute_251106110723\f103c6t6_578-8s_534-6s.fsb" isopened="0" dateChange="2025-11-06 11:08:02"/>
-         <File path=".\autoroute_251106105202\f103c6t6_578-8s_561-4s.fsb" isopened="0" dateChange="2025-11-06 10:53:47"/>
-         <File path=".\autoroute_250215115001\f103c6t6_606-7s.fsb" isopened="0" dateChange="1601-01-01 00:00:00"/>
-         <File path=".\autoroute_250215115001\f103c6t6_638-6s.fsb" isopened="0" dateChange="1601-01-01 00:00:00"/>
-         <File path=".\autoroute_250215115001\f103c6t6_696-5s.fsb" isopened="0" dateChange="1601-01-01 00:00:00"/>
+         <File path=".\autoroute_250215115001\f103c6t6_578-8s.fsb" isopened="0" dateChange="2025-02-15 11:51:52"/>
+         <File path=".\autoroute_251106105622\f103c6t6_578-8s_436-5s.fsb" isopened="0" dateChange="1601-01-01 00:00:00"/>
+         <File path=".\autoroute_251106110251\f103c6t6_578-8s_514-7s.fsb" isopened="0" dateChange="1601-01-01 00:00:00"/>
+         <File path=".\autoroute_251106104954\f103c6t6_578-8s_531-6s.fsb" isopened="0" dateChange="1601-01-01 00:00:00"/>
+         <File path=".\autoroute_251106110723\f103c6t6_578-8s_534-6s.fsb" isopened="0" dateChange="1601-01-01 00:00:00"/>
+         <File path=".\autoroute_251106105202\f103c6t6_578-8s_561-4s.fsb" isopened="0" dateChange="1601-01-01 00:00:00"/>
+         <File path=".\autoroute_250215115001\f103c6t6_606-7s.fsb" isopened="0" dateChange="2025-02-15 11:51:58"/>
+         <File path=".\autoroute_250215115001\f103c6t6_638-6s.fsb" isopened="0" dateChange="2025-02-15 11:51:33"/>
+         <File path=".\autoroute_250215115001\f103c6t6_696-5s.fsb" isopened="0" dateChange="2025-02-15 11:51:54"/>
       </Section>
    </Documents>
+   <Import>
+      <Specctra>
+         <Path name="C:\Users\admin\Documents\KiCad\f103c6t6\f103c6t6.dsn"/>
+      </Specctra>
+   </Import>
 </Project>

@@ -3774,6 +3774,46 @@
 		)
 		(uuid "ff592b92-2951-4537-81b0-bf358af52330")
 	)
+	(label "RX"
+		(at 116.84 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4b901bf9-7975-4235-9bbc-8c65c20b10ac")
+	)
+	(label "SWDIO"
+		(at 116.84 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4fc6a4f1-3e6c-4cea-885d-d531031b6ef3")
+	)
+	(label "SWCLK"
+		(at 116.84 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5315e6be-651d-49c3-9c2a-88148b43f9f0")
+	)
+	(label "TX"
+		(at 116.84 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a912858a-3943-42ea-a645-2dd3368c68c5")
+	)
 	(global_label "button_4"
 		(shape input)
 		(at 104.14 62.23 0)
